@@ -23,3 +23,10 @@ Localhost port is defaulted to 3000, but can be changed in package.json file by 
 
 Application can be accessed via chrome browser:
 http://localhost:3000
+
+#### Feature changes
+Pre-loader was imported from a third-party library. I would like to set it as the default for when the screen is loading and also center its position.
+This same feature also has fetch capabilities already built in. I would love to add functionality that captures each users IP address, store it, then fetches that data to display on a map. This way users can see the locations where other viewers have contributed from! 
+
+
+
